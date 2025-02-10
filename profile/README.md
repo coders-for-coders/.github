@@ -19,9 +19,8 @@ Our vision is to:
 We’d love your help! Whether you’re a seasoned developer or new to open source, there’s a place for you here. Here’s how you can get started:
 
 1. **Find a project:** Browse our repositories and pick one that interests you.
-2. **Read the contribution guidelines:** Each repository has a `CONTRIBUTING.md` file with details on how to contribute.
-3. **Fork and clone:** Make your own copy of the repository and start working.
-4. **Submit a pull request:** Once you’ve made your changes, submit a pull request for review.
+2. **Fork and clone:** Make your own copy of the repository and start working.
+3. **Submit a pull request:** Once you’ve made your changes, submit a pull request for review.
 
 Need help? Join our [Discord server](https://discord.gg/GvW3vAabhH) to connect with fellow contributors.
 
@@ -41,7 +40,7 @@ Interested in joining **Coders for Coders**? Here’s how you can be a part of o
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email:** [codersforcoders@example.com](mailto:codersforcoders0@gmail.com)
+- **Email:** [codersforcoders0@gmail.com](mailto:codersforcoders0@gmail.com)
 - **Discord:** [Join our server](https://discord.gg/GvW3vAabhH)
 
 Let’s build something amazing together! 🎩✨
